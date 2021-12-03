@@ -17,4 +17,6 @@ Homework #2
   - файл ./terraform/.terraformrc
   - файл ./terraform/.terraform.rc
 
+---
 
+Новая строчка
