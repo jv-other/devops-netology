@@ -20,3 +20,7 @@ Homework #2
 ---
 
 Новая строчка
+
+---
+
+Changes from PyCharm
