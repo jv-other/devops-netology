@@ -1,2 +1,2 @@
 # devops-netology
-exercise2
+Homework #2
